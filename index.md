@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Network Software Engineer at New York University's Research Technology Services group.
 
-## Research Interests
+## What I'm Doing
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Studying for the CCNP-SP
 
-## News
+## What I've Done
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- Designed and implemented EVPN based HPC Networks
+- Designed and implemented > 100 Gbps network security monitoring
+- Designed and implemented IaC and automation for networks
 
 {% include_relative _includes/publications.md %}
 
