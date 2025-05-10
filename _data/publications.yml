@@ -1,8 +1,8 @@
 main:
 
-  - title: Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs
+  - title: "Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs"
     authors: Zhengyao Gu, Diego Troy Lopez, Lilas Alrahis, Ozgur Sinanoglu
-    conference_short: ISQED'24
+    conference_short: ISQED
     conference: International Symposium on Quality Electronic Design <strong>(ISQED)</strong>, 2024. 
     pdf: https://ieeexplore.ieee.org/abstract/document/10528371?casa_token=AiP6DvQ1UP8AAAAA:fXuPgqn91PltKnjdfuvbNtqVc_E7wS1d3PlCxKOu6YrkuMgBaHVc3BB-C3B4sSCwizQhRKl2UM4
     image: ./assets/img/pretraining.png
