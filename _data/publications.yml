@@ -1,5 +1,15 @@
 main:
 
+  - title: "Right Place, Right Time: ML-based Data Acquisition for Lateral Movement Detection in Science Networks"
+    authors: Diego Troy Lopez, Thomas B Reddington, Robert Pahle
+    conference_short: Preprint
+    conference: TechRxiv, 2025 
+    pdf: https://www.techrxiv.org/users/922421/articles/1294338-right-place-right-time-ml-based-data-acquisition-for-lateral-movement-detection-in-science-networks?commit=74a5a4ef0b14da19dd4face15366fa62c936378a
+    image: ./assets/img/intelligentnids.png
+    # code: 
+    # page:
+    # notes:
+
   - title: "Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs"
     authors: Zhengyao Gu, Diego Troy Lopez, Lilas Alrahis, Ozgur Sinanoglu
     conference_short: ISQED
