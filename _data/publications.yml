@@ -4,7 +4,7 @@ main:
     authors: Diego Troy Lopez, Thomas B Reddington, Robert Pahle
     conference_short: Preprint
     conference: TechRxiv, 2025 
-    pdf: https://www.techrxiv.org/users/922421/articles/1294338-right-place-right-time-ml-based-data-acquisition-for-lateral-movement-detection-in-science-networks?commit=74a5a4ef0b14da19dd4face15366fa62c936378a
+    pdf: https://www.techrxiv.org/users/922421/articles/1294338-right-place-right-time-ml-based-data-acquisition-for-lateral-movement-detection-in-science-networks
     image: ./assets/img/intelligentnids.png
     # code: 
     # page:
