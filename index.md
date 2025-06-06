@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Senior Network Engineer at Research Technology Services at New York University working on the High Speed Research Network (HSRN) and related computing infrastructure. I am a strong supporter of a free and open Internet (big "I"). 
+I am a Network Engineer at SpaceX - Starlink. Previously, I was a Senior Network Engineer in New York University's High Performance Computing team. I am a strong supporter of a free and open Internet (big "I"). 
 
 ## What I'm Doing
 
