@@ -9,10 +9,9 @@ I am a Network Engineer at SpaceX - Starlink. Previously, I was a Senior Network
 ## What I'm Doing
 
 - Studying for the CCNP-SP, specifically IS-IS and Segment Routing
-- Experimenting with the DN42 overlay
 - Getting my own AS and Internet presence
-- Relearning Guitar
-- Moving to Seattle
+- Training for a half-marathon
+- Starting to write online courses
 
 ## What I've Done
 
