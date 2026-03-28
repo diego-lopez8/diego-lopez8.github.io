@@ -4,17 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Network Engineer at SpaceX - Starlink. Previously, I was a Senior Network Engineer in New York University's High Performance Computing team. I am a strong supporter of a free and open Internet (big "I"). 
+I am a Network Engineer at SpaceX in the Starlink Network Engineering division. Previously, I was a Senior Network Engineer in New York University's High Performance Computing team. I am a strong supporter of a free and open Internet (big "I"). 
 
 ## What I'm Doing
 
-- Studying for the CCNP-SP, specifically IS-IS and Segment Routing
+- Studying for the CCIE-SP
 - Getting my own AS and Internet presence
-- Training for a half-marathon
+- Training for a full marathon
 - Starting to write online courses
 
 ## What I've Done
 
+- Managed and operated a global ISP
+- Attained the CCNP-SP
+- Completed a half marathon
 - Designed and implemented EVPN based HPC Networks
 - Designed and implemented > 100 Gbps network security monitoring
 - Designed and implemented custom infrastructure-as-code and automation for networks
